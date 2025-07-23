@@ -1,6 +1,6 @@
 # Terraform
 This Repository have all terraform files
-# 🌐 AWS Infrastructure Provisioning with Terraform
+🌐 AWS Infrastructure Provisioning with Terraform
 
 This repository contains Terraform configuration files to provision basic AWS infrastructure components including:
 
@@ -35,8 +35,8 @@ This repository contains Terraform configuration files to provision basic AWS in
 
 3.Clone the Repository
 
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/Rakshitram07/Terraform.git
+cd Terraform
 
 4.Initialize Terraform
 terraform init
