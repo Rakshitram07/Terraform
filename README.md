@@ -39,10 +39,13 @@ git clone https://github.com/Rakshitram07/Terraform.git
 cd Terraform
 
 4.Initialize Terraform
+
 terraform init
 
 5.Review the Execution Plan
+
 terraform plan
 
 6.Apply the Configuration
+
 terraform apply
